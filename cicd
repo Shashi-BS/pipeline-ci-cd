@@ -2,7 +2,7 @@ pipeline {
     // add your slave label name
     agent { label 'my-first-slave-server'}
     tools{
-        maven 'maven'
+        maven 'maen'
     }
 
     stages {
